@@ -41,7 +41,7 @@ Proyek ini mengklasifikasikan gambar kendaraan ke dalam **10 kategori** mengguna
 **EN:** The model generalizes well across 10 classes, demonstrating effective feature transfer and stable validation performance.  
 **ID:** Model menunjukkan generalisasi yang baik pada 10 kelas, dengan transfer fitur yang efektif dan performa validasi stabil.
 
----
+C
 
 ## 🖥 Demo Preview | Tampilan Demo
 Access the deployed Streamlit app here:
@@ -49,13 +49,6 @@ Akses aplikasi Streamlit di sini:
 👉 https://kelompok7pengolahancitra.streamlit.app/
 <img width="1919" height="954" alt="Screenshot 2025-11-23 180512" src="https://github.com/user-attachments/assets/e4d6f58e-ef52-409b-80c8-476f5e53e233" />
 <img width="1919" height="942" alt="Screenshot 2025-11-23 180607" src="https://github.com/user-attachments/assets/dd434109-37fd-4ae3-b0ff-00b800bf8944" />
-
----
-
-(Optional additional images):
-- top-3 predictions
-- confidence bar chart
-- confusion matrix (recommended)
 
 ---
 
