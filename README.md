@@ -45,8 +45,12 @@ C
 
 ## 🖥 Demo Preview | Tampilan Demo
 Access the deployed Streamlit app here:
+👉 https://kelompok7pengolahancitra.streamlit.app/
 Akses aplikasi Streamlit di sini:
 👉 https://kelompok7pengolahancitra.streamlit.app/
+⚠️ Note:
+The Streamlit demo may take a few seconds to start if idle.
+If prompted, click “Wake app” and wait briefly.
 <img width="1919" height="954" alt="Screenshot 2025-11-23 180512" src="https://github.com/user-attachments/assets/e4d6f58e-ef52-409b-80c8-476f5e53e233" />
 <img width="1919" height="942" alt="Screenshot 2025-11-23 180607" src="https://github.com/user-attachments/assets/dd434109-37fd-4ae3-b0ff-00b800bf8944" />
 
